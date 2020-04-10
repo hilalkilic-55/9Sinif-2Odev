@@ -23,7 +23,7 @@ b) [Google Sheet](https://docs.google.com/spreadsheets/d/1bisKMNywxr-SMfI6ju_TQ8
 **Cevap:** 
 
 c) Elle çizdiğiniz grafik orijinden geçmiyor.  *x=0* iken *y=0* değil. *x=0* iken *y* nedir? Sizce neden orjinden geçmiyor?
-**Cevap:**
+**Cevap:** ***Eğer grafik orijinden geçseydi yani *x=0* durumunda *y=0* olsaydı yay sabitinin **0** olma ihtimali de olurdu. Fakat böyle bir durum sözkonusu olmadığı için grafik orijinden geçemez.***
 
 
 
