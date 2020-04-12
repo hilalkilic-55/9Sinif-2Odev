@@ -46,5 +46,5 @@ c) Elle çizdiğiniz grafik orijinden geçmiyor.  *x=0* iken *y=0* değil. *x=0*
 |    9,95  |  0,025  |
 |   12,35   |   0,029  |
 
-6. Grafiği defterinize çiziniz.Sonra size verdiğim google sheet örneğini kullanarak bilgisayar ile grafiği çiziniz. Değerler yakın mı? Google sheet dosyasının bağlantısını ver. [buraya bağlantı ver](   ). 
-
+6. Grafiği defterinize çiziniz.Sonra size verdiğim google sheet örneğini kullanarak bilgisayar ile grafiği çiziniz. Değerler yakın mı? Google sheet dosyasının bağlantısını ver. [buraya bağlantı ver]( https://docs.google.com/spreadsheets/d/1HNi6r2AULnVIwSY4cz9z_90inXIgolTs8JA16gbh8Og/edit?usp=drivesdk ). 
+**Cevap:** **Ben eğimi 425N/m buldum. Bilgisayar ise 449N/m buldu.
